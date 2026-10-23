@@ -37,9 +37,9 @@ Exiba o nome completo (primeiro nome + sobrenome) e a comissão (COMMISSION_PCT)
 
 EXERCÍCIO 05 — Localizações dos EUA e Canadá
 Nível 1: Consultas básicas, filtros e ordenação
-Mostre o ID da localização, endereço de rua e cidade das localizações cujo país (COUNTRY_ID) é US ou CA.
+Mostre o ID da localização, endereço de rua e cidade das localizações cujo país (COUNTRY_ID) é US ou CA;
 
--- Não respondido
+
 
 ----------------------------------------------------------------
 
